@@ -1,8 +1,18 @@
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
-        int a = 3;
-        int b = 5;
-        int result = a + b;
-        System.out.println("result = " + result);
+ /*ArrayList<Flyable> flyables = new ArrayList<>();
+        flyables.add(new Duck());
+        flyables.add(new Plane());
+        flyables.add(new Plane());
+        flyables.add(new Duck());
+
+        for (int i = 0; i < flyables.size(); i++) {
+            flyables.get(i).fly();
+            }
+            */
+
+
+        }
     }
-}
